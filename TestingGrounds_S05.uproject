@@ -7,7 +7,10 @@
 		{
 			"Name": "TestingGrounds_S05",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"AIModule"
+			]
 		}
 	]
 }
